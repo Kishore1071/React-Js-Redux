@@ -1,0 +1,22 @@
+.clear-float{
+    clear: right;
+}
+
+input[type=text] {
+
+    width: 40%;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.cancel {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+}
